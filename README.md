@@ -23,13 +23,13 @@ constraints:
 
 ## User Stories
 
--   [ ] User can enter up to 8 binary digits in one input field
--   [ ] User must be notified if anything other than a 0 or 1 was entered
--   [ ] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
+-   [x] User can enter up to 8 binary digits in one input field.
+-   [x] User must be notified if anything other than a 0 or 1 was entered.
+-   [x] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered.
 
 ## Bonus features
 
--   [ ] User can enter a variable number of binary digits
+-   [x] User can enter a variable number of binary digits
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -52,10 +52,10 @@ restrições:
 
 ## Histórias de usuários
 
--   [ ] O usuário pode inserir até 8 dígitos binários em um campo de entrada
--   [ ] O usuário deve ser notificado se algo diferente de 0 ou 1 foi inserido
--   [ ] O usuário visualiza os resultados em um único campo de saída contendo o equivalente decimal (base 10) do número binário que foi inserido
+-   [x] O usuário pode inserir até 8 dígitos binários em um campo de entrada.
+-   [x] O usuário deve ser notificado se algo diferente de 0 ou 1 foi inserido.
+-   [x] O usuário visualiza os resultados em um único campo de saída contendo o equivalente decimal (base 10) do número binário que foi inserido.
 
 ## Recursos bônus
 
--   [ ] O usuário pode inserir um número variável de dígitos binários
+-   [x] O usuário pode inserir um número variável de dígitos binários
